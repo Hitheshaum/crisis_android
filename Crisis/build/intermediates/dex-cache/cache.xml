@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hitheshaum/Documents/Crisis/crisis_android/Crisis/crisis/build/intermediates/exploded-aar/com.getpebble/pebblekit/3.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd72bf60a6e56573eecb0e6abf419fac2b1fc1e6">
+        <dex dex="/Users/hitheshaum/Documents/Crisis/crisis_android/Crisis/crisis/build/intermediates/pre-dexed/debug/classes-c5a69da8a91a8b9f19bddc98dd2649a5eeee5075.jar" />
+    </item>
+
+</items>

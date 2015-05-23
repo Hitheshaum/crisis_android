@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/hitheshaum/Documents/Crisis/crisis_android/Crisis/crisis/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="default_screen_bg">#20324a</color>
+    <color name="light_gray_header_color">#646663</color>
+    <color name="rounded_container_bg">#80000000</color>
+    <color name="rounded_container_border">#3b3f44</color>
+    <!-- From: file:/Users/hitheshaum/Documents/Crisis/crisis_android/Crisis/crisis/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/hitheshaum/Documents/Crisis/crisis_android/Crisis/crisis/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="above60F">Above 60 years (F)</string>
+    <string name="above60M">Above 60 years (M)</string>
+    <string name="action_add">Add</string>
+    <string name="action_configure">Configure</string>
+    <string name="app_name">Crisis</string>
+    <string name="braodcast">Broadcast SMS</string>
+    <string name="car_crash">Car Crash</string>
+    <string name="current_fracture">Currently Fractured</string>
+    <string name="current_message">Current Message</string>
+    <string name="custom_message">Custom Message</string>
+    <string name="default_tresh">Default</string>
+    <string name="delete">Delete All</string>
+    <string name="eighty">80</string>
+    <string name="fall_treshold">Fall treshold</string>
+    <string name="forty">40</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hundred">100</string>
+    <string name="less12">Age less than 12</string>
+    <string name="osteopenia">Osteopenia</string>
+    <string name="osteoporosis">Osteoporosis</string>
+    <string name="pick_contact">Add Contact</string>
+    <string name="save">Save</string>
+    <string name="sixty">60</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="title_activity_configure">Configure</string>
+    <string name="twenty">20</string>
+    <string name="young">Young and healthy</string>
+    <string name="zero">0</string>
+    <!-- From: file:/Users/hitheshaum/Documents/Crisis/crisis_android/Crisis/crisis/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

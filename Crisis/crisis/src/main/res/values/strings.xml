@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crisis</string>
+    <string name="pick_contact">Add Contact</string>
+    <string name="action_configure">Configure</string>
+    <string name="action_add">Add</string>
+    <string name="braodcast">Broadcast SMS</string>
+    <string name="delete">Delete All</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="title_activity_configure">Configure</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="custom_message">Custom Message</string>
+    <string name="save">Save</string>
+    <string name="current_message">Current Message</string>
+    <string name="fall_treshold">Fall treshold</string>
+    <string name="zero">0</string>
+    <string name="twenty">20</string>
+    <string name="forty">40</string>
+    <string name="sixty">60</string>
+    <string name="eighty">80</string>
+    <string name="hundred">100</string>
+    <string name="default_tresh">Default</string>
+    <string name="osteoporosis">Osteoporosis</string>
+    <string name="above60M">Above 60 years (M)</string>
+    <string name="above60F">Above 60 years (F)</string>
+    <string name="young">Young and healthy</string>
+    <string name="osteopenia">Osteopenia</string>
+    <string name="less12">Age less than 12</string>
+    <string name="car_crash">Car Crash</string>
+    <string name="current_fracture">Currently Fractured</string>
+
+</resources>
